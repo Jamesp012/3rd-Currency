@@ -1,0 +1,19 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Rider IDE
+.idea/
+
+# Logs and database files
+*.log
+*.db
